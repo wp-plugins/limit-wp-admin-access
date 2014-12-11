@@ -17,6 +17,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Limits access to wp-admin and wp-login.php also provides a sign-in shortcut
 
 == Description ==
+Limits access to wp-admin and wp-login.php also provides a sign-in shortcut
+
 * When not logged in, it prevents any and all access to the admin area, or any related URLs .. such as /wp-login.php etc.
 * It provides a shortcode that can be added to a sign-in page, to allow logging in from the front-end.
 
