@@ -37,7 +37,9 @@ Just make sure you have the [login_form] shortcode on a page.
 Initial WordPress.org release 
 
 == Screenshots ==
-Not really applicable
+
+1. Screen shot test
+2. Second screen shot
 
 == Changelog ==
 Initial WP dot ORG release
