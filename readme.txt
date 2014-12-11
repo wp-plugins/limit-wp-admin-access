@@ -14,7 +14,7 @@ Version:           1.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-When not logged in, it prevents any and all access to the admin area, or any related URLs .. such as /wp-login.php
+Limits access to wp-admin and wp-login.php also provides a sign-in shortcut
 
 == Description ==
 * When not logged in, it prevents any and all access to the admin area, or any related URLs .. such as /wp-login.php etc.
