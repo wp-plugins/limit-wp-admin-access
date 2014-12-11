@@ -25,8 +25,12 @@ Limits access to wp-admin and wp-login.php also provides a sign-in shortcut
 *WARNING*: When the plugin is activated, access to the normal login for WordPress is disabled.  To allow login access, create a page, for example “Sign In”, and add the shortcode [login_form].
 
 == Installation ==
+Use standard WordPress installation
+
 Nothing special.  
+
 *** BEFORE YOU ACTIVATE ***
+
 Just make sure you have the [login_form] shortcode on a page.
 
 == Upgrade Notice ==
