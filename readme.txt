@@ -19,6 +19,7 @@ Limits access to wp-admin and wp-login.php also provides a sign-in shortcut
 == Description ==
 Limits access to wp-admin and wp-login.php also provides a sign-in shortcut
 
+Use scenario: WordPress as a CMS with "administrator" accounts only. To make logins even more secure, consider making the "Sign In" page protected. 
 * When not logged in, it prevents any and all access to the admin area, or any related URLs .. such as /wp-login.php etc.
 * It provides a shortcode that can be added to a sign-in page, to allow logging in from the front-end.
 
