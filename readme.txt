@@ -40,8 +40,9 @@ Initial WordPress.org release
 
 == Screenshots ==
 
-1. Screen shot test
-2. Second screen shot
+1. Active plugin
+2. "Sign In" page
+3. Login form
 
 == Changelog ==
 Initial WP dot ORG release
