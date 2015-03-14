@@ -3,12 +3,12 @@
 Contributors:      DrMagu
 Plugin Name:       Limit wp-admin access
 Plugin URI:        http://www.drmagu.com/using-wordpress-for-simple-websites-plugin-684.htm
-Tags:              front end login, block wp-admin, login shortcode
+Tags:              front end login, block wp-admin, login shortcode, security
 Author URI:        http://www.drmagu.com
 Author:            DrMagu
 Donate link:       https://thesparksconnection.com/donate
 Requires at least: 3.5
-Tested up to:      4.0.1
+Tested up to:      4.1.1
 Stable tag:        trunk
 Version:           1.0.5
 License: GPLv2 or later
